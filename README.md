@@ -108,7 +108,10 @@ exit(EXIT_SUCCESS);
 
 
 ## OUTPUT
-![image](https://github.com/Sandeepzxi/Linux-IPC-Pipes/assets/168530813/fa6f56e9-aafe-4ac5-a36c-8723521625a6)
+
+![WhatsApp Image 2025-11-13 at 08 25 39](https://github.com/user-attachments/assets/fd3ab233-cf86-4cb7-be26-51592ce305e6)
+
+![WhatsApp Image 2025-11-13 at 08 26 49](https://github.com/user-attachments/assets/9ef49bc0-2908-44f4-a375-45316ba0ad97)
 
 
 # RESULT:
